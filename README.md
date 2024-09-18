@@ -1,5 +1,5 @@
- monA [TR]
- * macOS için küçük sistem monitörü *
+ # monA [TR]
+   "macOS için küçük sistem monitörü"
 
 ## Özellikler
 
@@ -26,7 +26,7 @@ Uygulamayı çalıştırmak için aşağıdaki adımları takip edin.
 
 
 # monA [EN]
- *A small system monitor for macOS*
+ "A small system monitor for macOS"
 
 ## Features
 
