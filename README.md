@@ -51,9 +51,12 @@ Follow the steps below to run the application.
 pip install pyqt5 psutil
 ```
 
-Ekran Görüntüleri 
+Ekran Görüntüleri / Screenshots
 
 <img width="286" alt="Ekran Resmi 2024-09-18 15 07 35" src="https://github.com/user-attachments/assets/899eba91-ec6e-46cd-8f4e-de0920f7b2f1">
+<br></br>
+<img width="310" alt="Ekran Resmi 2024-09-18 15 08 11" src="https://github.com/user-attachments/assets/03551d2e-c1fb-479d-9b6c-ca5a4e67df8c">
+
 
 
 
